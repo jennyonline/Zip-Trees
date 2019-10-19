@@ -19,3 +19,6 @@ Niklaus Wirth. Algorithms + Data Structures = Programs. Prentice-Hall, 1976
 
 **Red-Black-Trees:**  <br/>
 Java TreeMap class
+
+There is an iterative, a recursive as well as an optimized version of Zip-Trees. The iterative and recursive ones are based on the referenced paper, the optimized version is a faster version introduced by us. <br/>
+There is also a class determined to counting the low ancestors within a Zip-Tree.
